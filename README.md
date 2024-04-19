@@ -6,7 +6,3 @@ cinemaSavvy is a web-based application designed to provide movie enthusiasts wit
 
 ## Technologies Used
 - **Frontend**:Nextjs , tailwind
-
-## screenShot
-
-![Uploading Screenshot 2024-04-19 225918.png…]
